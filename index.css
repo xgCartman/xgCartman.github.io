@@ -1,0 +1,70 @@
+body {
+
+	background-color: #fcfcfc;
+	color: #444;
+	font-family: 'Open Sans', Arial, sans-serif;
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+
+}
+
+p {
+
+	font-weight: bold;
+	padding: 10px;
+
+}
+
+ul {
+
+	list-style: none;
+
+}
+
+li {
+
+	display: inline;
+	padding: 5px;
+
+}
+
+#sidenote {
+
+	font-weight: normal;
+	font-size: 0.8em;
+	font-style: italic;
+	padding: 10px;
+
+}
+
+#header {
+
+	color: #2e538a;
+	font-size: 3.5em;
+
+}
+
+#ad_header {
+
+	padding: 10px 0 10px 0;
+	text-align: center;
+}
+
+#navigation {
+
+
+
+}
+
+#content {
+
+
+}
+
+
+#footer {
+
+	padding: 25px;
+
+}
